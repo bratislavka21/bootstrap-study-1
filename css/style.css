@@ -35,3 +35,13 @@ body {
   color: #008ed6;
   padding: 5px;
 }
+
+/*
+  ================================================
+   #EXPLORE-SECTION
+  ================================================
+*/
+#explore-section .fas {
+  background-color: #333;
+  color: white;
+}
